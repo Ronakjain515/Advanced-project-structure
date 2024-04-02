@@ -1,0 +1,2 @@
+2024-03-16 19:33:54,933 [WARNING] django.request: Not Found: /favicon.ico
+2024-03-16 19:33:54,955 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2464
